@@ -1,6 +1,8 @@
-# LaraCasts No Autoplay
+# LaraCasts No Autoplay (Chrome Extension)
 
 Click cancel on the Lesson Complete popup on LaraCasts.com to prevent playing the next video.
+
+License: MIT
 
 ## How It Works
 
