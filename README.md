@@ -13,8 +13,11 @@ License: MIT
 
 ## How To Use
 
+> COMING SOON: Link to Chrome Web Store extension page (submitted extension to Google for review).
+
+1. Download a zip of the source code (and unzip it to a directory) or clone this repo.
 1. In the Chrome extensions tab under `Settings`, turn on `Developer Mode`.
-1. Install extension via the `Load unpacked` button. Select the `laracasts-no-autoplay` directory and load that.
+1. Install extension via the `Load unpacked` button. Select the directory containing the source code files and load that.
 
 
 ## Source
