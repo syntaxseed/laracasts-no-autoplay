@@ -1,5 +1,5 @@
 /**
- * Main behaviour of extension. Executes on load of any tab.
+ * Main behaviour of extension. Executes on load of tab.
  */
 
 // Begin main function of extension:

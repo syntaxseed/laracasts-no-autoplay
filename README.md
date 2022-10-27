@@ -26,4 +26,5 @@ https://github.com/syntaxseed/laracasts-no-autoplay
 
 ### Version History
 
+* v0.5.1 - Fix so that it works more than once per tab load.
 * v0.5.0 - Initial version of basic extension.
