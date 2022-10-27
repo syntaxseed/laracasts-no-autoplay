@@ -4,10 +4,7 @@
     "version": "0.5.0",
     "description": "Click cancel on the Lesson Complete popup on LaraCasts.com.",
     "manifest_version": 3,
-    "permissions": [
-        "activeTab",
-        "scripting"
-    ],
+    "permissions": [],
     "action": {
         "default_icon": {
             "16": "images/lcna_16.png",
