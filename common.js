@@ -5,7 +5,7 @@
 const classChangeObserver = new MutationObserver(attributeObserverCallback);
 
 /**
- * Register a listener for the 'next video' popup to be added to the page dom.
+ * Register a listener for the 'next video' modal to be added to the page dom.
  */
 function listenForEndOfVideo(){
     console.log("LaracastsNoAutoPlay: Adding listener.");
